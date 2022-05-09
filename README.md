@@ -1,5 +1,4 @@
 # Expense Tracker
-<img src="public/demo.png">
 
 # Getting Started with Create React App
 
